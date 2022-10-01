@@ -1,0 +1,6 @@
+﻿// Format is: {key name}{TAB}{value}
+// - Key name: For your reference, the program doesn't use it.
+// - Value: Whatever you want to be displayed on the sign.
+// In this file, lines starting with // or empty lines are ignored.
+
+JackpotMsg_en	Play Now Paradise Lotto Estimated_Jackpot
